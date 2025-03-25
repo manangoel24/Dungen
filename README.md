@@ -22,25 +22,6 @@ This project combines the power of large language models and AI image generation
 - DeepSeek API access
 - Internet connection for Adobe Firefly integration
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/jeremyhung22/dnd-character-generator.git
-cd dnd-character-generator
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-streamlit run app.py
-```
-
-### Usage
-
-1. Open the application in your web browser :  https://genai-project1.streamlit.app/
-2. Type in character attributes
-3. Click "Submit" to create a character background
 
 ## Resources
 
