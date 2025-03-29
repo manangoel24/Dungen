@@ -1,5 +1,5 @@
 import streamlit as st
-from openai import OpenAI
+import openai
 from ui import get_character_inputs
 from prompts import generate_prompt
 
