@@ -1,3 +1,0 @@
-pip install openai
-streamlit
-openai
