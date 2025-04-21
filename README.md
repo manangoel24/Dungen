@@ -24,6 +24,7 @@ This project combines the power of large language models and AI image generation
 
 ## Usage
 Open the application in your web browser : https://dungen.streamlit.app/
+
 Type in character attributes
 Click "Submit" to create a character background
 
